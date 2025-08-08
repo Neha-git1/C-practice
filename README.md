@@ -2,7 +2,7 @@
 
 A collection of C programs to learn C from scratch — from the basics to deeper topics like pointer arithmetic, pointers to arrays, function pointers, and `const` with pointers.
 
-## 📂 Contents
+##  Contents
 
 ### 1. Basics
 - **print.c** – Printing output
@@ -26,7 +26,7 @@ A collection of C programs to learn C from scratch — from the basics to deeper
 
 ---
 
-## 🛠 How to Compile & Run
+## How to Compile & Run
 
 Make sure you have GCC installed.  
 Compile:

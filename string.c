@@ -25,6 +25,11 @@ int main(){
         printf("a comes after b\n");
     
 }
+//'\0' is a special character with ASCII value 0.
+
+//Marks end of string in memory.
+
+//Any function working on strings in C depends on it to avoid reading into garbage memory.
 
 
 
